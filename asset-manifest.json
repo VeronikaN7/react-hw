@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/github.iogit%20init/react-hw/static/css/main.f6672412.chunk.css",
-    "main.js": "/github.iogit%20init/react-hw/static/js/main.ee50fb36.chunk.js",
-    "main.js.map": "/github.iogit%20init/react-hw/static/js/main.ee50fb36.chunk.js.map",
-    "runtime-main.js": "/github.iogit%20init/react-hw/static/js/runtime-main.a958702f.js",
-    "runtime-main.js.map": "/github.iogit%20init/react-hw/static/js/runtime-main.a958702f.js.map",
-    "static/js/2.180d86fb.chunk.js": "/github.iogit%20init/react-hw/static/js/2.180d86fb.chunk.js",
-    "static/js/2.180d86fb.chunk.js.map": "/github.iogit%20init/react-hw/static/js/2.180d86fb.chunk.js.map",
-    "index.html": "/github.iogit%20init/react-hw/index.html",
-    "precache-manifest.a1bcaa3303c221f39e97bf8efff3245e.js": "/github.iogit%20init/react-hw/precache-manifest.a1bcaa3303c221f39e97bf8efff3245e.js",
-    "service-worker.js": "/github.iogit%20init/react-hw/service-worker.js",
-    "static/css/main.f6672412.chunk.css.map": "/github.iogit%20init/react-hw/static/css/main.f6672412.chunk.css.map",
-    "static/js/2.180d86fb.chunk.js.LICENSE.txt": "/github.iogit%20init/react-hw/static/js/2.180d86fb.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/github.iogit%20init/react-hw/static/media/space.e76a74fd.jpg"
+    "main.css": "/react-hw/static/css/main.54c83090.chunk.css",
+    "main.js": "/react-hw/static/js/main.87747fe4.chunk.js",
+    "main.js.map": "/react-hw/static/js/main.87747fe4.chunk.js.map",
+    "runtime-main.js": "/react-hw/static/js/runtime-main.ce8b6a95.js",
+    "runtime-main.js.map": "/react-hw/static/js/runtime-main.ce8b6a95.js.map",
+    "static/js/2.180d86fb.chunk.js": "/react-hw/static/js/2.180d86fb.chunk.js",
+    "static/js/2.180d86fb.chunk.js.map": "/react-hw/static/js/2.180d86fb.chunk.js.map",
+    "index.html": "/react-hw/index.html",
+    "precache-manifest.0dcf0732f9891ecff320c817dd76015b.js": "/react-hw/precache-manifest.0dcf0732f9891ecff320c817dd76015b.js",
+    "service-worker.js": "/react-hw/service-worker.js",
+    "static/css/main.54c83090.chunk.css.map": "/react-hw/static/css/main.54c83090.chunk.css.map",
+    "static/js/2.180d86fb.chunk.js.LICENSE.txt": "/react-hw/static/js/2.180d86fb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-hw/static/media/space.e76a74fd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a958702f.js",
+    "static/js/runtime-main.ce8b6a95.js",
     "static/js/2.180d86fb.chunk.js",
-    "static/css/main.f6672412.chunk.css",
-    "static/js/main.ee50fb36.chunk.js"
+    "static/css/main.54c83090.chunk.css",
+    "static/js/main.87747fe4.chunk.js"
   ]
 }
