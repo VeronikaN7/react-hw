@@ -17,7 +17,7 @@ const Post = (props) => {
         <div className="arrow"></div>
       </div>
       <div>
-        <img className="post-photo" src={props.image} alt="main-image-post"/>
+        <img className="post-photo" src={props.image} alt="main-post"/>
       </div>
       <div className="add-functions">
         <div className="item-function"> 
