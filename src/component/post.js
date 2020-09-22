@@ -20,10 +20,10 @@ const Post = (props) => {
         <img className="post-photo" src={props.image} alt="main-post"/>
       </div>
       <div className="add-functions">
-        <div className="item-function"> 
+        {/*<div className="item-function"> 
           <img src={require("/img/share.png")} className="icons" alt="comment-icon"/>
           <p>482</p>
-        </div>
+  </div>*/}
         <div className="item-function"><img src={require("/img/share.png")} className="icons" alt="share-icon"/>
         <p>146</p> </div>
         <div className="item-function"><img src={require("/img/like.png")} className="icons" alt="like-icon"/>
