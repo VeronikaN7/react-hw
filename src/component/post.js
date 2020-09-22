@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Img from 'img';
 
 const Post = (props) => {
   return (
