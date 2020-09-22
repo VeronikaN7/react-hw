@@ -21,7 +21,7 @@ const Post = (props) => {
       </div>
       <div className="add-functions">
         <div className="item-function"> 
-          <img src={require("/img/comment.png")} className="icons" alt="comment-icon"/>
+          <img src={require("/img/share.png")} className="icons" alt="comment-icon"/>
           <p>482</p>
         </div>
         <div className="item-function"><img src={require("/img/share.png")} className="icons" alt="share-icon"/>
