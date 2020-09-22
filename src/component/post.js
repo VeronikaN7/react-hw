@@ -19,7 +19,7 @@ const Post = (props) => {
       <div>
         <img className="post-photo" src={props.image} alt="main-post"/>
       </div>
-      {/* <div className="add-functions">
+       <div className="add-functions">
         <div className="item-function"> 
           <img src={require("/img/share.png")} className="icons" alt="comment-icon"/>
           <p>482</p>
@@ -30,7 +30,7 @@ const Post = (props) => {
         <p>88</p></div>
         <div className="item-function"><img src={require("/img/download.png")} className="icons" alt="download-icon"/>
         </div>
-      </div> */}
+      </div> 
     </div>
 
 </div>
