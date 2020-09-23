@@ -1,5 +1,8 @@
 import React from 'react';
-import Img from 'img';
+import comment from './img/comment.png';
+import share from './img/share.png';
+import like from './img/like.png';
+import download from './img/download.png';
 
 const Post = (props) => {
   return (
@@ -21,14 +24,14 @@ const Post = (props) => {
       </div>
        <div className="add-functions">
         <div className="item-function"> 
-          <img src={require("/img/share.png")} className="icons" alt="comment-icon"/>
+          <img src={comment} className="icons" alt="comment-icon"/>
           <p>482</p>
   </div>
-        <div className="item-function"><img src={require("/img/share.png")} className="icons" alt="share-icon"/>
+        <div className="item-function"><img src={share} className="icons" alt="share-icon"/>
         <p>146</p> </div>
-        <div className="item-function"><img src={require("/img/like.png")} className="icons" alt="like-icon"/>
+        <div className="item-function"><img src={like} className="icons" alt="like-icon"/>
         <p>88</p></div>
-        <div className="item-function"><img src={require("/img/download.png")} className="icons" alt="download-icon"/>
+        <div className="item-function"><img src={download} className="icons" alt="download-icon"/>
         </div>
       </div> 
     </div>
